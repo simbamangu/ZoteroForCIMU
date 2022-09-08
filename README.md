@@ -6,7 +6,8 @@ This document gives instructions on how to install and set up the Zotero applica
 
 ## Installation
 
-Go to the download page at [zotero.org](https://www.zotero.org/download/) and download the installer for your computer (Windows, Mac and Linux versions are available). For Windows and Mac, you will open the downloaded installer and follow the directions to install Zotero.
+Go to the download page at [zotero.org](https://www.zotero.org/download/) and download the installer for 
+your computer (Windows, Mac and Linux versions are available). For Windows and Mac, you will open the downloaded installer and follow the directions to install Zotero.
 
 After installation it will be available as part of the usual applications on your computer:
 
@@ -22,3 +23,9 @@ When you first start Zotero, you will be presented with an empty database (list)
 2.  Store copy of file.
 3.  Connect in Chrome / Firefox and add new references.
 4.  Best practices: saving web page clips, getting full references,
+
+
+## TAWIRI shared library
+
+There is a shared library of references and reports which can be joined and documents downloaded.
+
